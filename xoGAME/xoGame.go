@@ -50,7 +50,3 @@ func main() {
 	}
 }
 
-// git init
-// git config --global user.name "MahmoudMuhammad"
-// git config --global user.email "mahmoudmuhammadd0@gmail.com"
-// git add FOLDER_NAME
